@@ -1,9 +1,8 @@
 
-$color : green;
-
 .home {
-    background-color: $color;
-    .title {
-        color: white;
+    display: flex;
+
+    .homeContainer {
+        flex: 6;
     }
 }
